@@ -361,3 +361,5 @@ export function normalizeCompletionPayload(input: CompletionPayload): CanonicalC
 }
 
 // Refinement.
+
+// Refinement.
