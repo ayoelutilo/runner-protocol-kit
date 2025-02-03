@@ -37,3 +37,5 @@ The package currently supports protocol versions `1.0` and `2.0`.
 - JSON Schema only: rejected because we wanted native TypeScript inference and lightweight parse APIs.
 
 - Changelog: minor updates.
+
+- Changelog: minor updates.
