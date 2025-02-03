@@ -204,3 +204,5 @@ describe("runner-protocol-kit", () => {
     expect(canonical.durationMs).toBe(2250);
   });
 });
+
+// Refinement.
