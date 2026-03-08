@@ -39,3 +39,5 @@ The package currently supports protocol versions `1.0` and `2.0`.
 - Changelog: minor updates.
 
 - Changelog: minor updates.
+
+- Changelog: minor updates.
