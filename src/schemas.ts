@@ -152,7 +152,3 @@ export type ControlSignal = z.infer<typeof ControlSignalSchema>;
 export type CompletionPayloadV1 = z.infer<typeof CompletionPayloadV1Schema>;
 export type CompletionPayloadV2 = z.infer<typeof CompletionPayloadV2Schema>;
 export type CompletionPayload = z.infer<typeof CompletionPayloadSchema>;
-
-// Refinement.
-
-// Refinement.

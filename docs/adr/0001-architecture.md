@@ -35,9 +35,3 @@ The package currently supports protocol versions `1.0` and `2.0`.
 
 - Single schema with optional fields: rejected because it hides version intent and makes incompatibilities harder to reason about.
 - JSON Schema only: rejected because we wanted native TypeScript inference and lightweight parse APIs.
-
-- Changelog: minor updates.
-
-- Changelog: minor updates.
-
-- Changelog: minor updates.
